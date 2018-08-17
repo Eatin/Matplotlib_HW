@@ -1,3 +1,8 @@
+# Description- three observable trends based on the data are as follows 
+- The tumor volume changes was compared over time(across the full 45 days) for treatment with different drugs. We found that only for the drugs 'Capomulin', 'Ramicane' there was a decrease in a tumor volume with percentage change of (-22.32%) for Ramicane and (-19.47%) for Capomulin respectively.
+- The number of metastatic (cancer spreading) sites changes were observed over time for each treatment. We found that maximum change was for the drug Ketapril followed by Placebo.
+- When the numbers of mice still alive through the course of treatment i.e the (Survival Rate) was compared for each drug. We observed that the survival rate was highest for the drug Capomulin(21) after 45 days of treatment followed by the drug Ramicane(20). It should be noted that only for the drugs 'Capomulin', 'Ramicane' there was a decrease in a tumor volume which is in consistent with the trend we found from the data of survival rate.
+
 
 
 ```python
